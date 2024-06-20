@@ -1,0 +1,11 @@
+INSTRUKCJA KORZYSTANIA Z SCOREAPP 
+1. nalezy zainstalowac biblioteke system.data.sqlClient
+2. nalezy poprawne połączyc sie z bazą danych
+3. jezeli w nawiasach zawarty jest warunek np. "(max 16 znakow)" należy się 
+do niego bezwarunkowo stosować
+4. program obsługuje się tylko za pomocą klawiatury.
+5. Jezeli chcesz wpisac dluzszą daną niz jest to wymagane 
+np. dluzsze nazwisko trenera niz 19 znakow nie interesuje mnie to. Dostosuj sie warunkow.
+
+
+z poważaniem, CEO PROJEKTU Dawid Kiersnowski
